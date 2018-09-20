@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Mediana</string>
+    <string name="typeNumbers">Wprowadź liczby!</string>
+    <string name="typeCorrectNumbers">Wprowadź poprawne liczby!</string>
+    <string name="info1">Wprowadź jedenaście dowolnych liczb całkowitych.</string>
+    <string name="info2">Mediana wprowadzonych liczb:</string>
+    <string name="count">Oblicz</string>
+</resources>
